@@ -8,6 +8,12 @@ namespace PISVjezba1
         {
             Console.WriteLine("Hello World!");
             //Komeniran komentar
+            //Popravljan ti ovo
+            
+            
+            
+            
+            //riseno
         }
     }
 }
