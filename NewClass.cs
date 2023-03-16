@@ -8,5 +8,6 @@ namespace PISVjezba1
     {
         int znj = 1950;
         void bzvz() { }
+        int kck = 0;
     }
 }
