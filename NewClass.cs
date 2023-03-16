@@ -7,5 +7,6 @@ namespace PISVjezba1
     class NewClass
     {
         int znj = 1950;
+        void bzvz() { }
     }
 }
